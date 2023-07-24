@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georges</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate young developer from France</h3>
 
 - 🔭 Welcome to my GitHub! Here, you'll find a collection of my latest projects, with a strong focus on Machine Learning applications within the finance domain.
 
